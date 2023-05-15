@@ -24,3 +24,8 @@ hs_err_pid*
 replay_pid*
 mtgjson/src/test/resources/AllPrices.json
 mtgjson/src/test/resources/AtomicCards.json
+mtgjson/.classpath
+mtgjson/src/test/resources/AllPrintings.sqlite
+mtgjson/src/test/resources/AllPrintings.sqlite-shm
+mtgjson/src/test/resources/AllPrintings.sqlite-wal
+mtgjson/src/test/resources/EnumValues.json

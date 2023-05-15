@@ -2,13 +2,13 @@ package de.rohmio.mtg.mtgjson.model;
 
 import java.util.Map;
 
-import de.rohmio.mtg.mtgjson.model.price.PriceProvider;
+import de.rohmio.mtg.mtgjson.model.price.PriceData;
 
 public class GameFormat {
 
-	private Map<String, PriceProvider> priceProviders;
+	private Map<String, PriceData> priceProviders;
 
-	public Map<String, PriceProvider> getPriceProviders() {
+	public Map<String, PriceData> getPriceProviders() {
 		return priceProviders;
 	}
 
